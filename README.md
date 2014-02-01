@@ -1,8 +1,8 @@
-# Circular charts
+# Stopwatch JS
 
 Small JavaScript library that generates beautiful countdown.
 ##Demos
-you can see a live demo on the Codepen [demo](http://whyounes.github.io/circle/)
+you can see a live demo on the Codepen [demo](http://codepen.io/neostar123/full/kIsqd)
 ##Usage
 
 Download and include the JavaScript file in your HTML like shown below:
@@ -55,6 +55,6 @@ This library is licensed under the terms of the MIT License.
 ##Inspired from
     * [Circular charts](https://github.com/Whyounes/circle) - circle.min.js is edited a bit to work with this library here so use this file
 
-Watch this library to get updates. 
-If you like this library, don;t forget to give it a star ;). 
+Watch this library to get updates.
+If you like this library, don;t forget to give it a star ;).
 If you have any creative idea feel free to fork and improve this.
