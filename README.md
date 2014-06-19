@@ -53,7 +53,7 @@ The library use the `canvas` element, you can check the support on [caniuse](htt
 This library is licensed under the terms of the MIT License.
 
 ##Inspired from
-    * [Circular charts](https://github.com/Whyounes/circle) - circle.min.js is edited a bit to work with this library here so use this file
+	[Circular charts](https://github.com/Whyounes/circle) - circle.min.js is edited a bit to work with this library here so use this file
 
 Watch this library to get updates.
 If you like this library, don;t forget to give it a star ;).
