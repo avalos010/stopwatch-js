@@ -58,3 +58,5 @@ This library is licensed under the terms of the MIT License.
 Watch this library to get updates.
 If you like this library, don;t forget to give it a star ;).
 If you have any creative idea feel free to fork and improve this.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-28405228-2/stopwatch-js/README)](https://github.com/igrigorik/ga-beacon)
